@@ -1,5 +1,7 @@
 # Image-Quantization
 
+FCIS Algorithms Project
+
 ### 1- Construct the graph:
 
 i-Find Distinct Colors
