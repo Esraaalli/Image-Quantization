@@ -1,14 +1,15 @@
 # Image-Quantization
 
-## Construct the graph:
+### Construct the graph:
 
 i-Find Distinct Colors
+
 ii-Construct The Graph
 
-## Find Minimal Spanning Tree
+### Find Minimal Spanning Tree
 
-## Extract the K clusters from the minimum spanning tree
+### Extract the K clusters from the minimum spanning tree
 
-## Find the representative color of each cluster
+### Find the representative color of each cluster
 
-## Quantize the image by replacing the colors of each cluster by its representative color
+### Quantize the image by replacing the colors of each cluster by its representative color
